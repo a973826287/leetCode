@@ -1,2 +1,2 @@
 # leetCode
-codePractice
+code Practice
